@@ -7,8 +7,8 @@
 </head>
 <body>
 
-<h1>git config --global user.name "tvojemeno"</h1>
-<h1>git config --global user.email "tvoj@email.hu"</h1>
+<h1>git config --global user.name "SamoRichter"</h1>
+<h1>git config --global user.email "samuel.richter@piaristi-pd.sk"</h1>
     <?php
 
 
